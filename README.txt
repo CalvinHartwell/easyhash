@@ -1,4 +1,4 @@
-Easy Hash - Calvin Hartwell 
+Easy Hash
 =============================
 
 After having worked with several web apis (REST and SOAP) I decided to write this small application to help generate hashes.
